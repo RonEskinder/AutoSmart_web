@@ -1,0 +1,7 @@
+[12-Dec-2017 11:34:12 America/Managua] PHP Fatal error:  Call to undefined function get_header() in /home/autosma4/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[10-Jan-2018 06:07:03 America/Managua] PHP Fatal error:  Call to undefined function get_header() in /home/autosma4/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[14-Feb-2018 08:50:23 America/Managua] PHP Fatal error:  Call to undefined function language_attributes() in /home/autosma4/public_html/wp-content/themes/twentysixteen/header.php on line 13
+[08-Mar-2018 20:07:29 America/Managua] PHP Fatal error:  Call to undefined function get_header() in /home/autosma4/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[17-Mar-2018 00:07:08 America/Managua] PHP Fatal error:  Call to undefined function get_header() in /home/autosma4/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[06-Sep-2018 12:08:27 America/Managua] PHP Fatal error:  Call to undefined function get_header() in /home/autosma4/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[05-Jan-2019 09:32:41 America/Managua] PHP Fatal error:  Call to undefined function get_header() in /home/autosma4/public_html/wp-content/themes/twentysixteen/404.php on line 10

@@ -1,0 +1,6 @@
+
+---Upload files---
+Customizer file was not uploaded. Error: El archivo está vacío. Por favor, sube algo con más sustancia. Este error puede que lo provoque que tu fichero php.ini tenga inhabilitadas las subidas o porque post_max_size esté definido más pequeño que el  upload_max_filesize en php.ini.
+
+---Upload files---
+Missing Redux option name! Please also enter the Redux option name!

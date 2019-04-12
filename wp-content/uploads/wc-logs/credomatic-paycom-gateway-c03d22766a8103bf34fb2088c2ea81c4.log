@@ -1,0 +1,87 @@
+09-21-2017 @ 21:19:49 - [COMIENZO DE REGISTRO DE ENTRADA]
+Dirección IP del cliente: 186.77.194.164
+Versión WooCommerce: 3.1.1
+Versión de WordPress: 4.8.2
+Nombre del blog: AutoSmart
+URL del Sitio: https://auto-smart.net/
+Mensaje: Transacción fue aprobada
+Código de respuesta: 100
+Texto de respuesta: APROBADA
+000002Detalle de respuesta: Array
+(
+    [responsetext] => APROBADA
+    [authcode] => 000002
+    [transactionid] => 000002
+    [avsresponse] => U
+    [cvvresponse] => P
+    [orderid] => 1138
+    [type] => auth
+    [response_code] => 100
+    [username] => rgarciar167
+    [time] => 1506050610
+    [amount] => 1.00
+    [purshamount] => 1.0
+    [hash] => 681ec455c1cce8f5048cbe81225f9db0
+    [response] => 1
+)
+
+[FIN DE REGISTRO DE ENTRADA]
+
+11-17-2017 @ 11:54:22 - [COMIENZO DE REGISTRO DE ENTRADA]
+Dirección IP del cliente: 152.231.34.66
+Versión WooCommerce: 3.2.1
+Versión de WordPress: 4.8.3
+Nombre del blog: AutoSmart
+URL del Sitio: https://auto-smart.net/
+Mensaje: Transacción fue aprobada
+Código de respuesta: 100
+Texto de respuesta: APROBADA
+657381Detalle de respuesta: Array
+(
+    [responsetext] => APROBADA
+    [authcode] => 657381
+    [transactionid] => 000012
+    [avsresponse] => U
+    [cvvresponse] => P
+    [orderid] => 1190
+    [type] => auth
+    [response_code] => 100
+    [username] => rgarciar167
+    [time] => 1510941544
+    [amount] => 68.43
+    [purshamount] => 68.43
+    [hash] => 932a9dc627f43914849fdbaf1b18e301
+    [response] => 1
+)
+
+[FIN DE REGISTRO DE ENTRADA]
+
+08-28-2018 @ 10:29:59 - [COMIENZO DE REGISTRO DE ENTRADA]
+Dirección IP del cliente: 186.77.193.27
+Versión WooCommerce: 3.2.1
+Versión de WordPress: 4.8.7
+Nombre del blog: AutoSmart
+URL del Sitio: https://auto-smart.net/
+Mensaje: Se rechazó la transacción.
+Código de respuesta: 257
+Texto de respuesta: TRANSACCION NO PERMITIDA
+Detalle de respuesta: Array
+(
+    [responsetext] => TRANSACCION NO PERMITIDA
+    [authcode] => 
+    [transactionid] => 000024
+    [avsresponse] => 
+    [cvvresponse] => 
+    [orderid] => 1206
+    [type] => auth
+    [response_code] => 257
+    [username] => rgarciar167
+    [time] => 1535473933
+    [amount] => 1.00
+    [purshamount] => 1.0
+    [hash] => 31e164efd15ce64ecc5237956e7813aa
+    [response] => 2
+)
+
+[FIN DE REGISTRO DE ENTRADA]
+

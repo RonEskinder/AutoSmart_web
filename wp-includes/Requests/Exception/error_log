@@ -1,0 +1,2 @@
+[06-Jul-2018 15:03:09 America/Managua] PHP Fatal error:  Class 'Requests_Exception' not found in /home/autosma4/public_html/wp-includes/Requests/Exception/HTTP.php on line 13
+[06-Jul-2018 15:03:11 America/Managua] PHP Fatal error:  Class 'Requests_Exception' not found in /home/autosma4/public_html/wp-includes/Requests/Exception/Transport.php on line 3

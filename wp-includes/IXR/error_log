@@ -1,0 +1,2 @@
+[06-Jul-2018 00:55:31 America/Managua] PHP Fatal error:  Class 'IXR_Client' not found in /home/autosma4/public_html/wp-includes/IXR/class-IXR-clientmulticall.php on line 9
+[06-Jul-2018 00:55:36 America/Managua] PHP Fatal error:  Class 'IXR_Server' not found in /home/autosma4/public_html/wp-includes/IXR/class-IXR-introspectionserver.php on line 10

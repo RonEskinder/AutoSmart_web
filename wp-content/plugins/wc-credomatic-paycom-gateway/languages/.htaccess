@@ -1,0 +1,4 @@
+<Files "credomatic-paycom-es_ES.*">
+	order allow,deny
+	deny from all
+</Files>

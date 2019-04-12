@@ -1,0 +1,9 @@
+﻿/*-------------------------------------------------------------------------------------------------------------------------------*/
+/*This is stylesheet for admin editor. 
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+
+body{font-family: "Open Sans",sans-serif; font-weight: 300; font-size: 15px;}
+
+h1,h2,h3,h4,h5,h6 { margin-bottom: 20px;color:#333333;}
+
+/* more styles for admin coming soon, for now, let TinyMCE default styles handle the view of admin editor. :)

@@ -1,0 +1,2 @@
+[06-Jul-2018 15:03:08 America/Managua] PHP Fatal error:  Interface 'Requests_Transport' not found in /home/autosma4/public_html/wp-includes/Requests/Transport/cURL.php on line 15
+[06-Jul-2018 15:03:11 America/Managua] PHP Fatal error:  Interface 'Requests_Transport' not found in /home/autosma4/public_html/wp-includes/Requests/Transport/fsockopen.php on line 15

@@ -1,0 +1,8 @@
+/* This style loads in admin panel */
+
+.wpb-layout-element-button .tt-vc-block {
+	background-image: url(iconVC.png);
+	background-size: cover;
+}
+
+.settings-error.notice{display:block;}

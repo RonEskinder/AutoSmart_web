@@ -1,0 +1,1 @@
+[06-Jul-2018 00:55:34 America/Managua] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home/autosma4/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17

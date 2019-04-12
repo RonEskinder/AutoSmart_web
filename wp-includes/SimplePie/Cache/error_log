@@ -1,0 +1,4 @@
+[06-Jul-2018 15:02:58 America/Managua] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/autosma4/public_html/wp-includes/SimplePie/Cache/DB.php on line 52
+[06-Jul-2018 15:03:05 America/Managua] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/autosma4/public_html/wp-includes/SimplePie/Cache/File.php on line 52
+[06-Jul-2018 15:03:06 America/Managua] PHP Fatal error:  Class 'SimplePie_Cache_DB' not found in /home/autosma4/public_html/wp-includes/SimplePie/Cache/MySQL.php on line 58
+[06-Jul-2018 15:03:10 America/Managua] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/autosma4/public_html/wp-includes/SimplePie/Cache/Memcache.php on line 59

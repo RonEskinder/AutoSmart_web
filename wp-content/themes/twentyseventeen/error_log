@@ -1,0 +1,16 @@
+[05-Aug-2017 06:35:35 America/Managua] PHP Fatal error:  Call to undefined function get_header() in /home/autosma4/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[05-Aug-2017 22:40:33 America/Managua] PHP Fatal error:  Call to undefined function get_template_part() in /home/autosma4/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[12-Oct-2017 23:46:55 America/Managua] PHP Fatal error:  Call to undefined function get_header() in /home/autosma4/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[12-Dec-2017 11:33:59 America/Managua] PHP Fatal error:  Call to undefined function get_header() in /home/autosma4/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[10-Jan-2018 06:07:04 America/Managua] PHP Fatal error:  Call to undefined function get_header() in /home/autosma4/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[13-Feb-2018 21:31:39 America/Managua] PHP Fatal error:  Call to undefined function get_header() in /home/autosma4/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[04-Mar-2018 18:29:19 America/Managua] PHP Fatal error:  Call to undefined function get_header() in /home/autosma4/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[11-Mar-2018 16:46:53 America/Managua] PHP Fatal error:  Call to undefined function get_template_part() in /home/autosma4/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[18-Mar-2018 21:56:11 America/Managua] PHP Fatal error:  Call to undefined function get_template_part() in /home/autosma4/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[20-Mar-2018 03:19:42 America/Managua] PHP Fatal error:  Call to undefined function get_header() in /home/autosma4/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[22-Mar-2018 21:06:19 America/Managua] PHP Fatal error:  Call to undefined function get_header() in /home/autosma4/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[12-Jun-2018 13:00:17 America/Managua] PHP Fatal error:  Call to undefined function get_header() in /home/autosma4/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[29-Jul-2018 07:03:54 America/Managua] PHP Fatal error:  Call to undefined function get_header() in /home/autosma4/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[29-Jul-2018 07:03:55 America/Managua] PHP Fatal error:  Call to undefined function get_header() in /home/autosma4/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[29-Aug-2018 00:31:35 America/Managua] PHP Fatal error:  Call to undefined function get_template_directory() in /home/autosma4/public_html/wp-content/themes/twentyseventeen/functions.php on line 16
+[06-Sep-2018 12:08:21 America/Managua] PHP Fatal error:  Call to undefined function get_header() in /home/autosma4/public_html/wp-content/themes/twentyseventeen/404.php on line 13

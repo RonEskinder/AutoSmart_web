@@ -1,0 +1,344 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Credomatic PayCOM Payment Gateway\n"
+"POT-Creation-Date: 2016-06-30 14:22-0600\n"
+"PO-Revision-Date: 2016-06-30 14:22-0600\n"
+"Last-Translator: \n"
+"Language-Team: BAC Credomatic Nicaragua\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ../includes\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;esc_html__\n"
+"X-Poedit-SearchPath-0: class-wc-credomatic-paycom-gateway-core.php\n"
+
+#: class-wc-credomatic-paycom-gateway-core.php:16
+msgid "An error occurred during the merchant key encryption"
+msgstr "Se ha producido un error durante el cifrado de la clave del comercio"
+
+#: class-wc-credomatic-paycom-gateway-core.php:33
+msgid "Credomatic PayCOM"
+msgstr "Credomatic PayCOM"
+
+#: class-wc-credomatic-paycom-gateway-core.php:34
+msgid "Pay with your credit card via Credomatic PayCOM"
+msgstr "Pague con su tarjeta de crédito a través de Credomatic PayCOM"
+
+#: class-wc-credomatic-paycom-gateway-core.php:39
+msgid "Credomatic"
+msgstr "Credomatic"
+
+#: class-wc-credomatic-paycom-gateway-core.php:58
+msgid "Enable/Disable"
+msgstr "Habilitar/Deshabilitar"
+
+#: class-wc-credomatic-paycom-gateway-core.php:60
+msgid "Enable Credomatic PayCOM payment"
+msgstr "Habilitar pago con Credomatic PayCOM"
+
+#: class-wc-credomatic-paycom-gateway-core.php:64
+msgid "Username"
+msgstr "Username"
+
+#: class-wc-credomatic-paycom-gateway-core.php:66
+msgid "Credomatic api username"
+msgstr "Nombre de usuario de Credomatic API"
+
+#: class-wc-credomatic-paycom-gateway-core.php:70
+msgid "Key"
+msgstr "Key"
+
+#: class-wc-credomatic-paycom-gateway-core.php:72
+msgid "Credomatic private key api"
+msgstr "Clave privada de Credomatic API"
+
+#: class-wc-credomatic-paycom-gateway-core.php:76
+msgid "Key ID"
+msgstr "Key ID"
+
+#: class-wc-credomatic-paycom-gateway-core.php:78
+msgid "Credomatic public key api"
+msgstr "Clave pública de Credomatic API"
+
+#: class-wc-credomatic-paycom-gateway-core.php:82
+msgid "Processor id"
+msgstr "Processor id"
+
+#: class-wc-credomatic-paycom-gateway-core.php:84
+msgid "Processing terminal identifier"
+msgstr "Identificador de terminal de procesamiento"
+
+#: class-wc-credomatic-paycom-gateway-core.php:88
+msgid "Timeout"
+msgstr "Timeout"
+
+#: class-wc-credomatic-paycom-gateway-core.php:90
+msgid "Timeout request"
+msgstr "Tiempo de espera de solicitud"
+
+#: class-wc-credomatic-paycom-gateway-core.php:101
+msgid "WooCommerce Credomatic PayCOM Payment Gateway"
+msgstr "WooCommerce Credomatic PayCOM Payment Gateway"
+
+#: class-wc-credomatic-paycom-gateway-core.php:102
+msgid ""
+"Take credit card payments safely and securily direct on your checkout using "
+"the WooCommerce Credomatic PayCOM Payment Gateway."
+msgstr ""
+"Tome los pagos con tarjeta de crédito de forma segura directamente en su "
+"página de pagos mediante el uso WooCommerce Credomatic Paycom Payment Gateway"
+
+#: class-wc-credomatic-paycom-gateway-core.php:111
+#, php-format
+msgid "The current user %s is trying to access the plugin settings options"
+msgstr ""
+"El usuario %s actual está tratando de acceder a las opciones de "
+"configuración del plugin"
+
+#: class-wc-credomatic-paycom-gateway-core.php:113
+msgid ""
+"The current user does not have sufficient permissions to access the "
+"configuration options of this component. Contact the site administrator for "
+"more information."
+msgstr ""
+"El usuario actual no tiene permisos suficientes para acceder a las opciones "
+"de configuración de este componente. Póngase en contacto con el "
+"administrador del sitio para obtener más información."
+
+#: class-wc-credomatic-paycom-gateway-core.php:119
+msgid "Please check the data and try again"
+msgstr "Por favor, compruebe los datos e inténtelo de nuevo"
+
+#: class-wc-credomatic-paycom-gateway-core.php:202
+msgid ""
+"There was a communication error when trying to connect to Credomatic servers."
+msgstr ""
+"Hubo un error de comunicación cuando intenta conectarse a los servidores de "
+"Credomatic."
+
+#: class-wc-credomatic-paycom-gateway-core.php:203
+msgid ""
+"Sorry for the inconvenience, there has been an error while trying to "
+"communicate with the bank's servers. Please try again later or contact the "
+"shop owner"
+msgstr ""
+"Disculpe por las molestias, se ha producido un error al intentar comunicarse "
+"con los servidores del banco. Por favor, inténtelo de nuevo más tarde o "
+"póngase en contacto con el dueño de la tienda"
+
+#: class-wc-credomatic-paycom-gateway-core.php:211
+msgid ""
+"The HTTP response header \"Location\" is not in the response returned by the "
+"server."
+msgstr ""
+"El encabezado de respuesta HTTP \"Location\" no está en la respuesta "
+"devuelta por el servidor."
+
+#: class-wc-credomatic-paycom-gateway-core.php:212
+msgid ""
+"Unexpected content, malformed response returned by the server. The response "
+"headers are not found."
+msgstr ""
+"Contenido inesperado, respuesta con formato incorrecto devuelto por el "
+"servidor. no se encuentran los encabezados de respuesta."
+
+#: class-wc-credomatic-paycom-gateway-core.php:213
+#: class-wc-credomatic-paycom-gateway-core.php:225
+#: class-wc-credomatic-paycom-gateway-core.php:237
+#: class-wc-credomatic-paycom-gateway-core.php:249
+msgid ""
+"Sorry for the inconvenience, there has been an error while trying to get "
+"response from the bank's servers. Please try again later or contact the shop "
+"owner"
+msgstr ""
+"Disculpe las molestias, se ha producido un error al intentar obtener "
+"respuesta por parte de los servidores del banco. Por favor, inténtelo de "
+"nuevo más tarde o póngase en contacto con el dueño de la tienda"
+
+#: class-wc-credomatic-paycom-gateway-core.php:223
+msgid ""
+"There was an error processing the response returned by the bank, the answer "
+"does not have the required elements."
+msgstr ""
+"Hubo un error al procesar la respuesta devuelta por el banco, la respuesta "
+"no tiene los elementos necesarios."
+
+#: class-wc-credomatic-paycom-gateway-core.php:224
+msgid ""
+"There was an error processing the response returned by the server, "
+"unexpected content, there are no elements in the response that can be "
+"processed."
+msgstr ""
+"Se ha producido un error al procesar la respuesta devuelta por el servidor, "
+"contenido inesperado, no hay elementos de la respuesta que se puede procesar."
+
+#: class-wc-credomatic-paycom-gateway-core.php:235
+msgid ""
+"An error related to the payment gateway has occurred, please see the details "
+"of the response, possibly due to a bad configuration."
+msgstr ""
+"Se ha producido un error relacionado con la pasarela de pago, por favor ver "
+"los detalles de la respuesta, posiblemente debido a una mala configuración."
+
+#: class-wc-credomatic-paycom-gateway-core.php:236
+msgid ""
+"There was an error with bank payment platform, please check the "
+"configuration parameters of the plugin."
+msgstr ""
+"Hubo un error con la plataforma de pago bancario, compruebe los parámetros "
+"de configuración del plug-in."
+
+#: class-wc-credomatic-paycom-gateway-core.php:247
+msgid ""
+"There was an error while trying to verify the hash response returned by the "
+"server, check the details of the response."
+msgstr ""
+"Se ha producido un error al intentar verificar la respuesta de hash devuelto "
+"por el servidor, comprobar los detalles de la respuesta."
+
+#: class-wc-credomatic-paycom-gateway-core.php:248
+msgid ""
+"There was an error, can not guarantee the authenticity of the response "
+"returned by the bank."
+msgstr ""
+"Hubo un error, no puede garantizar la autenticidad de la respuesta devuelta "
+"por el banco."
+
+#: class-wc-credomatic-paycom-gateway-core.php:258
+#: class-wc-credomatic-paycom-gateway-core.php:260
+msgid "Transaction was approved"
+msgstr "Transacción fue aprobada"
+
+#: class-wc-credomatic-paycom-gateway-core.php:261
+#: class-wc-credomatic-paycom-gateway-core.php:315
+#: class-wc-credomatic-paycom-gateway-core.php:317
+msgid "Cardholder"
+msgstr "Titular de la tarjeta"
+
+#: class-wc-credomatic-paycom-gateway-core.php:262
+msgid "Transaction identifier"
+msgstr "Identificador de transacción"
+
+#: class-wc-credomatic-paycom-gateway-core.php:263
+#: class-wc-credomatic-paycom-gateway-core.php:394
+msgid "Authorization code"
+msgstr "Código de Autorización"
+
+#: class-wc-credomatic-paycom-gateway-core.php:264
+msgid "Last 4 card digits"
+msgstr "4 últimos dígitos de la tarjeta"
+
+#: class-wc-credomatic-paycom-gateway-core.php:277
+msgid "Transaction was declined"
+msgstr "Se rechazó la transacción."
+
+#: class-wc-credomatic-paycom-gateway-core.php:279
+msgid "Transaction was declined by processor"
+msgstr "Se rechazó la transacción por el procesador."
+
+#: class-wc-credomatic-paycom-gateway-core.php:280
+msgid "Transaction was declined by your bank or card issuer"
+msgstr "La transacción se rechazó por su banco o emisor de la tarjeta."
+
+#: class-wc-credomatic-paycom-gateway-core.php:288
+#: class-wc-credomatic-paycom-gateway-core.php:290
+msgid "Transaction was rejected by gateway"
+msgstr "Transacción fue rechazada por la puerta de enlace."
+
+#: class-wc-credomatic-paycom-gateway-core.php:291
+msgid ""
+"No response from payment gateway server. Please try again later or contact "
+"the shop owner"
+msgstr ""
+
+#: class-wc-credomatic-paycom-gateway-core.php:303
+msgid ""
+"Checkout page is not secure, please enable \"Force Secure Checkout\" option "
+"in checkout settings"
+msgstr ""
+"La página de pago no es segura, por favor habilite la opción \"Forzar página "
+"de pago segura\" en las configuraciones de Pago."
+
+#: class-wc-credomatic-paycom-gateway-core.php:304
+#, php-format
+msgid ""
+"WooCommerce Credomatic PayCOM Payment Gateway is enable and the \"<strong><a "
+"href=\"%s\">force secure checkout</a></strong>\" option is disable; your "
+"checkout is not secure!. Please enable this option an ensure your server has "
+"a valid SSL certificate."
+msgstr ""
+"WooCommerce Credomatic PayCOM Gateway se encuentra habilitada y la opción "
+"\"<strong><a href=\"%s\">Fozar pago seguro</a></strong>\" se encuentra "
+"deshabilitada, su caja no es segura!. Por favor habilite esta opción y "
+"asegure que su servidor posee un certificado SSL válido."
+
+#: class-wc-credomatic-paycom-gateway-core.php:382
+msgid "BEGIN OF LOG ENTRY"
+msgstr "COMIENZO DE REGISTRO DE ENTRADA"
+
+#: class-wc-credomatic-paycom-gateway-core.php:383
+msgid "Client IP address"
+msgstr "Dirección IP del cliente"
+
+#: class-wc-credomatic-paycom-gateway-core.php:384
+msgid "WooCommerce Version"
+msgstr "Versión WooCommerce"
+
+#: class-wc-credomatic-paycom-gateway-core.php:385
+msgid "WordPress version"
+msgstr "Versión de WordPress"
+
+#: class-wc-credomatic-paycom-gateway-core.php:386
+msgid "Blog name"
+msgstr "Nombre del blog"
+
+#: class-wc-credomatic-paycom-gateway-core.php:387
+msgid "Site URL"
+msgstr "URL del Sitio"
+
+#: class-wc-credomatic-paycom-gateway-core.php:388
+msgid "Message"
+msgstr "Mensaje"
+
+#: class-wc-credomatic-paycom-gateway-core.php:392
+msgid "Response code"
+msgstr "Código de respuesta"
+
+#: class-wc-credomatic-paycom-gateway-core.php:393
+msgid "Response text"
+msgstr "Texto de respuesta"
+
+#: class-wc-credomatic-paycom-gateway-core.php:394
+msgid "Code not present"
+msgstr "Código no está presente"
+
+#: class-wc-credomatic-paycom-gateway-core.php:396
+msgid "Response detail"
+msgstr "Detalle de respuesta"
+
+#: class-wc-credomatic-paycom-gateway-core.php:399
+msgid "END OF LOG ENTRY"
+msgstr "FIN DE REGISTRO DE ENTRADA"
+
+#~ msgid "Payments via Credomatic"
+#~ msgstr "Pagos a través de Credomatic"
+
+#~ msgid "Payments with Credomatic"
+#~ msgstr "Pagos con Credomatic"
+
+#~ msgid ""
+#~ "No response from payment gateway server. Try again later or contact the "
+#~ "site administrator"
+#~ msgstr ""
+#~ "No hay respuesta del servidor de pasarela de pago. Inténtelo más tarde o "
+#~ "póngase en contacto con el administrador del sitio"
+
+#~ msgid "BEGIN OF ENTRY LOG"
+#~ msgstr "COMIENZO DE REGISTRO DE ENTRADA"
+
+#~ msgid "END OF ENTRY LOG"
+#~ msgstr "FIN DE REGISTRO DE ENTRADA"

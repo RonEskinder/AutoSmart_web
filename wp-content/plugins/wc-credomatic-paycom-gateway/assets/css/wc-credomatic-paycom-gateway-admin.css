@@ -1,0 +1,21 @@
+.credomatic-wrap {
+    font-family: "Trebuchet MS";
+}
+
+.credomatic-wrap textarea {
+    height: 200px !important;
+    width: 100%;
+    resize: none;
+}
+
+.credomatic-icon {
+    display: inline-block;
+    float: left;
+    width: 128px;
+    height: 128px;
+    background-image: url('../img/credomatic-paycom-gateway-settings-icon.png');
+}
+
+.credomatic-wrap .error {
+    color: red;
+}

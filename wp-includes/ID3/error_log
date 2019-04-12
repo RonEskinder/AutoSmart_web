@@ -1,0 +1,14 @@
+[06-Jul-2018 01:00:01 America/Managua] PHP Fatal error:  Class 'getid3_handler' not found in /home/autosma4/public_html/wp-includes/ID3/module.tag.id3v1.php on line 19
+[06-Jul-2018 01:00:06 America/Managua] PHP Fatal error:  Class 'getid3_handler' not found in /home/autosma4/public_html/wp-includes/ID3/module.audio.mp3.php on line 26
+[06-Jul-2018 01:00:11 America/Managua] PHP Fatal error:  Class 'getid3_lib' not found in /home/autosma4/public_html/wp-includes/ID3/module.audio.ogg.php on line 17
+[06-Jul-2018 01:00:15 America/Managua] PHP Fatal error:  Class 'getid3_lib' not found in /home/autosma4/public_html/wp-includes/ID3/module.tag.id3v2.php on line 17
+[06-Jul-2018 01:00:20 America/Managua] PHP Fatal error:  Class 'getid3_handler' not found in /home/autosma4/public_html/wp-includes/ID3/module.audio.ac3.php on line 19
+[06-Jul-2018 01:00:25 America/Managua] PHP Fatal error:  Class 'getid3_handler' not found in /home/autosma4/public_html/wp-includes/ID3/module.audio.dts.php on line 22
+[06-Jul-2018 01:00:29 America/Managua] PHP Fatal error:  Class 'getid3_handler' not found in /home/autosma4/public_html/wp-includes/ID3/module.tag.apetag.php on line 18
+[06-Jul-2018 01:00:34 America/Managua] PHP Fatal error:  Class 'getid3_lib' not found in /home/autosma4/public_html/wp-includes/ID3/module.audio.flac.php on line 18
+[06-Jul-2018 01:00:43 America/Managua] PHP Fatal error:  Class 'getid3_handler' not found in /home/autosma4/public_html/wp-includes/ID3/module.tag.lyrics3.php on line 19
+[06-Jul-2018 01:01:02 America/Managua] PHP Fatal error:  Class 'getid3_handler' not found in /home/autosma4/public_html/wp-includes/ID3/module.audio-video.flv.php on line 76
+[06-Jul-2018 01:01:11 America/Managua] PHP Fatal error:  Class 'getid3_lib' not found in /home/autosma4/public_html/wp-includes/ID3/module.audio-video.asf.php on line 17
+[06-Jul-2018 01:01:21 America/Managua] PHP Fatal error:  Class 'getid3_lib' not found in /home/autosma4/public_html/wp-includes/ID3/module.audio-video.riff.php on line 26
+[06-Jul-2018 01:02:24 America/Managua] PHP Fatal error:  Class 'getid3_handler' not found in /home/autosma4/public_html/wp-includes/ID3/module.audio-video.matroska.php on line 217
+[06-Jul-2018 01:02:33 America/Managua] PHP Fatal error:  Class 'getid3_lib' not found in /home/autosma4/public_html/wp-includes/ID3/module.audio-video.quicktime.php on line 18

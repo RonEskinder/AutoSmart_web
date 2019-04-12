@@ -1,0 +1,51 @@
+
+---Upload files---
+Customizer file was not uploaded. Error: El archivo está vacío. Por favor, sube algo con más sustancia. Este error puede que lo provoque que tu fichero php.ini tenga inhabilitadas las subidas o porque post_max_size esté definido más pequeño que el  upload_max_filesize en php.ini.
+
+---Upload files---
+Redux file was not uploaded. Error: El archivo está vacío. Por favor, sube algo con más sustancia. Este error puede que lo provoque que tu fichero php.ini tenga inhabilitadas las subidas o porque post_max_size esté definido más pequeño que el  upload_max_filesize en php.ini.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://auto-smart.net
+Data file = /home/autosma4/public_html/wp-content/uploads/2018/08/appai_data-1.xml
+Widget file = /home/autosma4/public_html/wp-content/uploads/2018/08/appai_widgets-1.wie
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---Importing widgets---
+maxive_sidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+Buscar - No Title - Imported to Inactive
+Entradas recientes - No Title - Imported to Inactive
+Comentarios recientes - No Title - Imported to Inactive
+Archivos - No Title - Imported to Inactive
+Categorías - No Title - Imported to Inactive
+Meta - No Title - Imported to Inactive
+
+appai_sidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+Buscar - No Title - Imported to Inactive
+Archivos - No Title - Imported to Inactive
+Calendario - Calender - Imported to Inactive
+Meta - No Title - Imported to Inactive
+
+appai_shop_widgets : Sidebar does not exist in theme (moving widget to Inactive)
+
+Carrito - Cart - Imported to Inactive
+Filtrar productos por puntuación - Average rating - Imported to Inactive
+Filtros de productos activos - Active filters - Imported to Inactive
+Búsqueda de productos - No Title - Imported to Inactive
+Nube de etiquetas de productos - Product tags - Imported to Inactive
+Productos por puntuación - Top rated products - Imported to Inactive
+Valoraciones recientes de productos - Recent reviews - Imported to Inactive
+Productos vistos recientemente - Recently viewed products - Imported to Inactive
+Productos - Products - Imported to Inactive
+Filtrar productos por atributo - Filter by - Imported to Inactive
+Categorías de los productos - Product categories - Imported to Inactive
+Filtrar productos por precio - Filter by price - Imported to Inactive
+
+
